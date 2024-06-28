@@ -2,3 +2,7 @@ body {
     background-color: #1a1a1a;
     color: #ffffff;
 }
+
+td:nth-child(1) a {
+  color: lightblue;
+}
