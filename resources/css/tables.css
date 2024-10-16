@@ -1,0 +1,12 @@
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    border: 20px solid #4b4b4b;
+    margin: auto
+  }
+  
+th,
+td {
+    padding: 20px;
+  }
+  
