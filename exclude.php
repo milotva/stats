@@ -2,7 +2,7 @@
 namespace ext\parser;
 class chkpost {
 public $exclude = [
-	'BanchoBot',
+    'BanchoBot',
     'Thorma',
     'GachaEnjoyer',
     'gibby10',
@@ -16,18 +16,18 @@ public $exclude = [
     'PipeCat',
     'Supatuka',
     'WelpImBad',
-	'squishi',
-	'audinor',
-	'Bonessav',
-	'C-OOP',
-	'ananvaban123',
-	'Xovacs',
+    'squishi',
+    'audinor',
+    'Bonessav',
+    'C-OOP',
+    'ananvaban123',
+    'Xovacs',
     'Nicole_Aquino',
-	'sometimes',
-	'Users',
-	'Disconnected',
-	'Now',
-	'Topic',
+    'sometimes',
+    'Users',
+    'Disconnected',
+    'Now',
+    'Topic',
 ];
 }
 ?>
