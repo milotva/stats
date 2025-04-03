@@ -22,7 +22,6 @@ public $exclude = [
     'C-OOP',
     'ananvaban123',
     'Xovacs',
-    'Nicole_Aquino',
     'sometimes',
     'Users',
     'Disconnected',
