@@ -6,3 +6,11 @@ body {
 td:nth-child(1) a {
   color: lightblue;
 }
+
+[title] {
+color: royalblue;
+}
+
+[mtitle] {
+color: #7800CF;
+}
