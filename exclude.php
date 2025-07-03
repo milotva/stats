@@ -1,7 +1,7 @@
 <?php
 namespace ext\parser;
 class chkpost {
-public $exclude = [
+public static array $exclude = [
     'BanchoBot',
     'Thorma',
     'GachaEnjoyer',
@@ -22,6 +22,10 @@ public $exclude = [
     'C-OOP',
     'ananvaban123',
     'Xovacs',
+    'bong_water',
+	'BellBoss79',
+	'HoodCat',
+	'Pastik12',
     'sometimes',
     'Users',
     'Disconnected',
